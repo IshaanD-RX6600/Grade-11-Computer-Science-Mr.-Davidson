@@ -3,5 +3,4 @@ public class purchaseCalculator {
 {
    return first + second + third + fourth;
 }
-   
 }
