@@ -1,3 +1,4 @@
+package Basics;
 public class areaOfTriangle {
     public static double getArea(double base, double height)
     {
