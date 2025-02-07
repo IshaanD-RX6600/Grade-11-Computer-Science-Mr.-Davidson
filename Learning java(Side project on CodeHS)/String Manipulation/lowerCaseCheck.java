@@ -10,4 +10,5 @@ public class lowerCaseCheck {
         return false;
     }   
 }
+
 }
