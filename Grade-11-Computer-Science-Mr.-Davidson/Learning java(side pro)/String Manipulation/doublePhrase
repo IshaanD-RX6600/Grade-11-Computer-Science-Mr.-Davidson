@@ -1,0 +1,6 @@
+public class doublePhrase {
+    public String doublePhrase(String phrase)
+{
+    return phrase + " " + phrase;
+}
+}
